@@ -127,7 +127,7 @@ const handlers = {
           });
     },
     'GameRoomIntent': function () {
-        var speechText = "The game room is open from 7am until midnight each day.  Is there something else I can tell you about?";
+        var speechText = "The game room is open from 7am until midnight each day.  The Alexa team will be there from 7 to 10pm each night playing their favorites, and also teaching some new games you can play with your Amazon Echo.  Is there something else I can tell you about?";
         VoiceLabs.track(this.event.session, this.event.request.intent.name, this.event.request.intent.slots, speechText, (error, response) => {
             this.response.speak(speechText).listen(getRandomWelcomeQuestion());
             this.emit(":responseReady");
@@ -154,6 +154,13 @@ const handlers = {
             this.emit(":responseReady");
           });
     },
+    'OfficeHoursIntent': function () {
+        var speechText = "From 1 to 3pm on Wednesday, Thursday, and Friday, the Alexa team will be holding office hours in Salon B and G.  Stop by to ask questions, write some code, or just learn more about building voice skills.";
+        VoiceLabs.track(this.event.session, this.event.request.intent.name, this.event.request.intent.slots, speechText, (error, response) => {
+            this.response.speak(speechText).listen(getRandomWelcomeQuestion());
+            this.emit(":responseReady");
+          });
+    },
     'PrecompilerMixerIntent': function () {
         var speechText = "The precompiler mixer will be held from 8pm to 11pm on Tuesday evening.  Is there something else I can tell you about?";
         VoiceLabs.track(this.event.session, this.event.request.intent.name, this.event.request.intent.slots, speechText, (error, response) => {
@@ -170,6 +177,13 @@ const handlers = {
     },
     'WelcomeReceptionIntent': function () {
         var speechText = "The welcome reception is from 8pm to 11:30pm on Wednesday night.  Is there something else I can tell you about?";
+        VoiceLabs.track(this.event.session, this.event.request.intent.name, this.event.request.intent.slots, speechText, (error, response) => {
+            this.response.speak(speechText).listen(getRandomWelcomeQuestion());
+            this.emit(":responseReady");
+          });
+    },
+    'WinnerIntent': function () {
+        var speechText = "The winners of the Amazon Echos at Codemash this year were David Keene and Bharat Kuncharavelu!  Congratulations!";
         VoiceLabs.track(this.event.session, this.event.request.intent.name, this.event.request.intent.slots, speechText, (error, response) => {
             this.response.speak(speechText).listen(getRandomWelcomeQuestion());
             this.emit(":responseReady");

@@ -1,0 +1,3770 @@
+{
+    "languageModel": {
+      "types": [
+        {
+          "name": "Session",
+          "values": [
+            {
+              "id": "7740",
+              "name": {
+                "value": "Build a Natural Language Slack Bot for your Dev Team",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7147",
+              "name": {
+                "value": "Build Cross-Platform Desktop Apps with Electron",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6971",
+              "name": {
+                "value": "Build Your Second Mobile App",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7567",
+              "name": {
+                "value": "Devour the Cloud with Locust Swarms - Hands on Load Testing",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7017",
+              "name": {
+                "value": "Effective Gherkin: Quality Requirements for the Enterprise",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7178",
+              "name": {
+                "value": "First Person View Drone Racing (Day 1, Part 1)",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7354",
+              "name": {
+                "value": "Getting Real without Getting Fired -- Saying Things in a Way People Can Hear",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7073",
+              "name": {
+                "value": "Going all in with functional C#",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7559",
+              "name": {
+                "value": "Introduction to Concurrent Programming with Elixir",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7544",
+              "name": {
+                "value": "Machine Learning: Taking your ML Models to Android and iOS",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7674",
+              "name": {
+                "value": "Kinetic Blast!",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6902",
+              "name": {
+                "value": "Great Design for Kids (and Other Life Forms)",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6942",
+              "name": {
+                "value": "A Whirlwind Tour of Recurrent Neural Networks",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6765",
+              "name": {
+                "value": "Build Your First Voice-Enabled Experience with Alexa",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7161",
+              "name": {
+                "value": "CodeMash Capture the Flag Tournament",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7594",
+              "name": {
+                "value": "Custom NGINX Module Development",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7842",
+              "name": {
+                "value": "First Person View Drone Racing (Day 1, Part 2)",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7781",
+              "name": {
+                "value": "From zero to a production quality webservice with Go",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7199",
+              "name": {
+                "value": "Introduction to Kotlin",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7651",
+              "name": {
+                "value": "Leading in a Complex World",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7737",
+              "name": {
+                "value": "Modern CSS",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7661",
+              "name": {
+                "value": "Where have all the Cukes gone?",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6927",
+              "name": {
+                "value": "Beginning Robotics Logic with the Sphero",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7041",
+              "name": {
+                "value": "Cryptography (Secrets) For -.- .. -.. ... (Kids)",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7359",
+              "name": {
+                "value": "Build Your Own Arduino Workshop",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7021",
+              "name": {
+                "value": "Building Serverless Applications in AWS Workshop",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7841",
+              "name": {
+                "value": "First Person View Drone Racing (Day 2, Part 1)",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7374",
+              "name": {
+                "value": "Functional Programming from None to Infinity",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6808",
+              "name": {
+                "value": "Improv for Geeks and Those Who Want to Work with Insanely Great Ensembles",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7678",
+              "name": {
+                "value": "Infrastructure as Code: Automate all the Things!",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6791",
+              "name": {
+                "value": "Let’s learn Android! (Kotlin Edition)",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7504",
+              "name": {
+                "value": "Real-world React from the ground up",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6817",
+              "name": {
+                "value": "The Hidden Requirements: Exploring Emotions with Placebos",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7348",
+              "name": {
+                "value": "Webapp Pentesting for Developers and QA Persons",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7327",
+              "name": {
+                "value": "Hands-on Experiments with Electronics",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7728",
+              "name": {
+                "value": "Kitchen Chemistry for Kids of all Ages",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7830",
+              "name": {
+                "value": "See Your Data on the Network with Wireshark",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6756",
+              "name": {
+                "value": "Spelling like a Pilot",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6904",
+              "name": {
+                "value": "3D Modeling for Makers and Game Developers!",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6928",
+              "name": {
+                "value": "Always Be Delivering",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6995",
+              "name": {
+                "value": "Demystifying ethereum to build your own decentralized (D-app) app using blockchain",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7843",
+              "name": {
+                "value": "First Person View Drone Racing (Day 2, Part 2)",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7098",
+              "name": {
+                "value": "Machine Learning with R",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7418",
+              "name": {
+                "value": "Practical Functional Java",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7796",
+              "name": {
+                "value": "Unleashing Your Creativity",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7240",
+              "name": {
+                "value": "Workshop on Autonomous Vehicle Embedded System Development, Integration and Validation Techniques",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7785",
+              "name": {
+                "value": "Binary Beats",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7267",
+              "name": {
+                "value": "Accessibilty in Android",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7747",
+              "name": {
+                "value": "Avoiding the Lock-In Fallacy",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7589",
+              "name": {
+                "value": "AWS Security Essentials",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7054",
+              "name": {
+                "value": "Crimson and Clover, Over and Over (and Over). Applying a Framework to Continuous Security",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6937",
+              "name": {
+                "value": "Exploring a NoSQL Option for Storing Data in your Mobile Apps",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7049",
+              "name": {
+                "value": "Fast Neural Networks… a no brainer!",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6950",
+              "name": {
+                "value": "Introduction to React + Redux + Redux Observables",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7460",
+              "name": {
+                "value": "Jewelbots: How to Get More Girls Coding!",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7310",
+              "name": {
+                "value": "Next Evolution of Unit Testing: JUnit 5",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6786",
+              "name": {
+                "value": "Real time traffic visualization in a microservices world",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6885",
+              "name": {
+                "value": "Restful Services with the Play Framework, MySQL, and a Security Level with JWT",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7459",
+              "name": {
+                "value": "SQL Server on Linux? Wait ... What?",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7202",
+              "name": {
+                "value": "Take the Toxic Out of Your Team and Up the Efficiency With the Power of Google",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7223",
+              "name": {
+                "value": "Unbreakable. Perfect: The Craft of Code",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7487",
+              "name": {
+                "value": "Learn to impress with magic",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7109",
+              "name": {
+                "value": "10 Insane Tips You Can Use Today to JavaScript Effectively; #8 Will Shock You!",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7650",
+              "name": {
+                "value": "A Tale of Two Offices: Being Sober & Sick in the Workplace",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7466",
+              "name": {
+                "value": "Build a Delightful API with Serverless Technology",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7506",
+              "name": {
+                "value": "Building Holographic & VR Experiences with the Mixed Reality Toolkit for Unity",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6961",
+              "name": {
+                "value": "Chatbot Stories: Real projects from the front lines of innovation",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7318",
+              "name": {
+                "value": "Crypto for Developers: Making Sane Choices",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7086",
+              "name": {
+                "value": "Dev Thumbs, QA Thumbs and the End of Ready for Testing",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7113",
+              "name": {
+                "value": "Devops Zen: Injecting Automated Tests into Infrastructure",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7685",
+              "name": {
+                "value": "EventBus and MVP - The Chocolate and Peanut Butter of Decoupling Android",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6914",
+              "name": {
+                "value": "Getting Started with Deep Learning",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7275",
+              "name": {
+                "value": "How to get started with robotics and IoT at home",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7667",
+              "name": {
+                "value": "Maturing the Enterprise Quality Practice",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7550",
+              "name": {
+                "value": "Most Useful Design Patterns",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7696",
+              "name": {
+                "value": "Fluid Power! Build your own hydraulic machine",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7119",
+              "name": {
+                "value": "A Game of Theories: why languages do what they do",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7177",
+              "name": {
+                "value": "Automating Security Testing with the OWTF",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7143",
+              "name": {
+                "value": "Automation Trepidation: Does DevOps freak you out?",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7079",
+              "name": {
+                "value": "Avoiding Microservice Megadisasters",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7135",
+              "name": {
+                "value": "Build your own Voice Assistant",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7131",
+              "name": {
+                "value": "Caring for New Users: Adoption, Onboarding, Permissions, Empty States, Feedback Herding, Friction, Hooks and More",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6771",
+              "name": {
+                "value": "Decoupling the Frontend through Modular CSS",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7526",
+              "name": {
+                "value": "Designers and Developers Working Together - Mass Hysteria! (And Accessible Websites!)",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6894",
+              "name": {
+                "value": "How Pro Wrestling Helped Make Me a World Champion Tester",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7404",
+              "name": {
+                "value": "Imposter Syndrome: Overcoming Self-Doubt in Success",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7514",
+              "name": {
+                "value": "Intro to Blockchain: What Is This For and Why It Matters",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6825",
+              "name": {
+                "value": "Java EE 8! Now what?",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7561",
+              "name": {
+                "value": "Super Mario UX Designer",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7558",
+              "name": {
+                "value": "Writing Code Like a Poet",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7193",
+              "name": {
+                "value": "A Research Study into DevOps bottlenecks",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7786",
+              "name": {
+                "value": "Becoming a Servant Leader, Leading from the Trenches",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6858",
+              "name": {
+                "value": "Coding Naked – Unit testing those hard to reach places",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7679",
+              "name": {
+                "value": "Essential Tools for Xamarin Developers!",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7534",
+              "name": {
+                "value": "Getting OAuth Into Your Dev Toolbox",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7614",
+              "name": {
+                "value": "Machine Learning at Scale, How to Keep Learning as Your Data Keeps Increasing",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7494",
+              "name": {
+                "value": "Making Accessibility Testing Suck Less: An Intro to Pa11y",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7619",
+              "name": {
+                "value": "One Million Little Gophers: Building a Concurrent Web Service Using Go",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7361",
+              "name": {
+                "value": "Press Start: Game Development for the Uninitiated",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7581",
+              "name": {
+                "value": "Project Vienna: Machine Learning Process For Engineers",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7294",
+              "name": {
+                "value": "Refactoring a Legacy Application with ReactJS",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7732",
+              "name": {
+                "value": "Securing Your API Endpoints",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6779",
+              "name": {
+                "value": "Services Assemble! Apply MVP Principles to Create Cutting-Edge Microservices Without Chaos with Spring Cloud/Netflix OSS",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6898",
+              "name": {
+                "value": "The Science of Great UI, part 1 (Efficiency in Thought & Motion)",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7554",
+              "name": {
+                "value": "A Brief Introduction to Concurrent Programming",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6784",
+              "name": {
+                "value": "Bluetooth Low Energy on Android: Top Tips for the Tricky Bits",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7164",
+              "name": {
+                "value": "Brain-inspired computing: the truth, the fiction, and where we are today",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7237",
+              "name": {
+                "value": "Command and Conquer the Front End with Elm",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7552",
+              "name": {
+                "value": "Custom Middleware & Microservices with ASP.NET Core 2.0",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7797",
+              "name": {
+                "value": "Fearing the Robot Overlords",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6881",
+              "name": {
+                "value": "Hacking healthcare: real-world applications and challenges of health informatics",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6783",
+              "name": {
+                "value": "Putting the Visual into the Visual Studio Debugger",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7384",
+              "name": {
+                "value": "Secure Applications, By Design",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7632",
+              "name": {
+                "value": "Start a UX Revolution at Your Workplace",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6926",
+              "name": {
+                "value": "Teaching kids how to code with Sphero robotics",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7475",
+              "name": {
+                "value": "Walking the High Wire: Patching Erlang Live",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6895",
+              "name": {
+                "value": "Writing Scalable JavaScript at Cox",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6758",
+              "name": {
+                "value": "Zero to DevOps in Under an Hour with Kubernetes",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6972",
+              "name": {
+                "value": "My First Website",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6716",
+              "name": {
+                "value": "Building Lightsabers Workshop",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6931",
+              "name": {
+                "value": "App architecture without RDBS vs NoSQL drama",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7246",
+              "name": {
+                "value": "Application Insights: The Magic School Bus for your Web Applications",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7844",
+              "name": {
+                "value": "Beyond JavaScript Frameworks: Writing Reliable Web Apps With Elm",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6748",
+              "name": {
+                "value": "Configure, Control, and Manage IoT with Mobile",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7597",
+              "name": {
+                "value": "Do More With Less: A Kotlin Primer",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7136",
+              "name": {
+                "value": "Easy CQRS with ASP.NET Core & MediatR",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6788",
+              "name": {
+                "value": "Fitting Big Data Into Web-Based Dashboards: Pitfalls and Helpful Hints",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6823",
+              "name": {
+                "value": "Image Recognition with Convolutional Neural Networks using Keras and CoreML",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6960",
+              "name": {
+                "value": "NoSQL Shouldn’t Mean No Security",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6752",
+              "name": {
+                "value": "Patterns for Reusable JavaScript Components",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7116",
+              "name": {
+                "value": "Prod Deployments: What should be the easiest part of your day",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7234",
+              "name": {
+                "value": "Risk Adaptive Application Security Using Machine Learning",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7734",
+              "name": {
+                "value": "Software is Not Hardware – Why the test rack is not the place to find a software defect",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6899",
+              "name": {
+                "value": "The Science of Great UI, part 2 (Design Like a Pro)",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7047",
+              "name": {
+                "value": "You Will F**k up & that's Ok (How to be a Male Ally in Tech)",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7764",
+              "name": {
+                "value": "A SOLID approach to Test Automation",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7289",
+              "name": {
+                "value": "Autonomy & Asynchrony: The key to designing reliable systems",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7130",
+              "name": {
+                "value": "Batch and stream processing finally together with Apache Beam",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6959",
+              "name": {
+                "value": "Build Your Own Teenage Daughter with Alexa and Azure Functions",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7065",
+              "name": {
+                "value": "Choice is Overrated - Designing Products That Know What You Want Before You Do",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7312",
+              "name": {
+                "value": "Cloudy with a (high) chance of uptime",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7195",
+              "name": {
+                "value": "Data Driven Devops",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7473",
+              "name": {
+                "value": "Everyday Elixir",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7281",
+              "name": {
+                "value": "Fire Up Your Mobile App!",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7218",
+              "name": {
+                "value": "Lessons in Ethical Development I Learned From Star Wars",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6886",
+              "name": {
+                "value": "Plug and Play JavaScript Components with Riot.js",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7712",
+              "name": {
+                "value": "Scala for the Java Developer: It’s Easier Than You Think",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7184",
+              "name": {
+                "value": "Threat Modeling for Secure Software Design",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7099",
+              "name": {
+                "value": "Unit Testing Your React App",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6854",
+              "name": {
+                "value": "299,792,458 Meters per Second",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7845",
+              "name": {
+                "value": "Brighten your day with Elm",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7705",
+              "name": {
+                "value": "Building Java Apps with Intelligence",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7686",
+              "name": {
+                "value": "Digging into DevOps with Terraform",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7108",
+              "name": {
+                "value": "GraphQL -- Flexible APIs for Adaptive Clients",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7165",
+              "name": {
+                "value": "How does my computer talk to me? Peeling back the hood of your favorite voice assistant",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7029",
+              "name": {
+                "value": "How to embed security into your process",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7775",
+              "name": {
+                "value": "I have people skills! The Importance of Emotional Intelligence and Your Career!",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6735",
+              "name": {
+                "value": "Kubernetes Development on Azure made easy with Helm and Draft",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6750",
+              "name": {
+                "value": "Mocking .NET Without Hurting Its Feelings",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7212",
+              "name": {
+                "value": "Of Abstraction and Precision",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7693",
+              "name": {
+                "value": "Ports & Adapters Architecture with Java and Spring Boot",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6909",
+              "name": {
+                "value": "Psychology Behind Compelling Apps",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7708",
+              "name": {
+                "value": "Ride the rails: Handling errors the functional way",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7352",
+              "name": {
+                "value": "Discovering the POP in Popcorn",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7636",
+              "name": {
+                "value": "Accessibility Cookbook: 10 easy recipes",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7097",
+              "name": {
+                "value": "Clean Architecture: Patterns, Practices, and Principles",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7287",
+              "name": {
+                "value": "Electron in the Real World: Architecture, Capabilities, and Performance",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7233",
+              "name": {
+                "value": "Event-Driven UX in the Real World with Angular and Socket.io",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6755",
+              "name": {
+                "value": "Hacking Radiowaves for fun (but not profit)",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7553",
+              "name": {
+                "value": "Introducing Domain-Driven Design",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6745",
+              "name": {
+                "value": "JSON Web Tokens Suck",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6809",
+              "name": {
+                "value": "JSR 375: New Security APIs for Java EE",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6933",
+              "name": {
+                "value": "Let's Augment Reality in Unreal Engine",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7145",
+              "name": {
+                "value": "Public Speaking without Barfing on Your Shoes",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6896",
+              "name": {
+                "value": "Securing without Slowing: DevOps",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7003",
+              "name": {
+                "value": "Sondheim, Seurat and Software: finding art in code",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7802",
+              "name": {
+                "value": "The Polyglot Data Scientist - Adventures with R, Python, and SQL",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6770",
+              "name": {
+                "value": "Yoga & Mindfulness for People Who Stare at Computers All Day",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7317",
+              "name": {
+                "value": "Movie Making: Script to Magic",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6796",
+              "name": {
+                "value": "Building an Artificial Pancreas",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7631",
+              "name": {
+                "value": "Chrome Developer Tools: Raiding the Armory",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7250",
+              "name": {
+                "value": "Designing Cross Platform Applications on .NET Core",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7753",
+              "name": {
+                "value": "Fiber or Glimmer? Two Approaches to the Component-Centric Future",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7043",
+              "name": {
+                "value": "Flying High with Xamarin!",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7758",
+              "name": {
+                "value": "git gone wild: how to recover from common git mistakes",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7580",
+              "name": {
+                "value": "How to Make a Dysfunctional Team Functional without Resorting to Death and Dismemberment",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6838",
+              "name": {
+                "value": "How To Write Really Bad Tests",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6917",
+              "name": {
+                "value": "Intellectual Property Fundamentals for the Technologist",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6780",
+              "name": {
+                "value": "Springing into Kotlin: How to Make the Magic even more Magical",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7783",
+              "name": {
+                "value": "Test Driven Development for DevOps",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7068",
+              "name": {
+                "value": "The Business Case for Blockchain: It Ain't Just CryptoCurrency",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6901",
+              "name": {
+                "value": "The Science of Great UI, part 3 (Metrics and Business Case)",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7684",
+              "name": {
+                "value": "Using Neural Networks to Generate Game of Thrones Scripts",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7187",
+              "name": {
+                "value": "A More Secure World for Android Apps",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7749",
+              "name": {
+                "value": "Advanced Patterns for Automated UI Testing",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7378",
+              "name": {
+                "value": "Breaking FrontEnd Paradigms with Vue.js",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7596",
+              "name": {
+                "value": "Building Delivery Pipelines with Jenkins' Pipeline as Code",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7736",
+              "name": {
+                "value": "Creating Meaningful Motion",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7081",
+              "name": {
+                "value": "Domain Driven Design: The Good Parts",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7339",
+              "name": {
+                "value": "Event Driven Actor Models in the Real-Time World",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7072",
+              "name": {
+                "value": "Giving Clarity to LINQ Queries by Extending Expressions",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7039",
+              "name": {
+                "value": "How Do I Secure My Micro-Services?",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7618",
+              "name": {
+                "value": "How to Count Your Chickens After They've Hatched",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7125",
+              "name": {
+                "value": "Securing the last mile of IoT solutions",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7447",
+              "name": {
+                "value": "Tales from the Front Lines: Modernizing a Legacy System",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6767",
+              "name": {
+                "value": "The Wonderful World of Recursion",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7137",
+              "name": {
+                "value": "There Is No Spoon? Understanding ‘Spoon Theory’ and Preventing Burnout",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7738",
+              "name": {
+                "value": "The Magic of Magnets",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6963",
+              "name": {
+                "value": "Building Potato Batteries",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7383",
+              "name": {
+                "value": ".NET IL: Into the Marianas Trench",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7007",
+              "name": {
+                "value": "Enhancing Application Security: Understanding and Utilizing Browser Security Features",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7682",
+              "name": {
+                "value": "Evolution of a RESTful Testing Framework",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7687",
+              "name": {
+                "value": "FP vs. OOP: Beyond the Bikeshed",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7052",
+              "name": {
+                "value": "I'd Hire more Women if they Would Apply!",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7463",
+              "name": {
+                "value": "Lessons Learned from Making Resilient Apps with Azure Mobile App Services",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7392",
+              "name": {
+                "value": "Leveraging Spring Cloud Consul for Discovery",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7528",
+              "name": {
+                "value": "Megahertz, Gigahertz, Registers and Instructions: How does a CPU actually work?",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6859",
+              "name": {
+                "value": "Prototype, Collaborate, Innovate",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7156",
+              "name": {
+                "value": "R Performance (It’s not R, it’s You)",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6934",
+              "name": {
+                "value": "Rediscovering XP: Extreme Programming. Retro? or Resurgent?",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7201",
+              "name": {
+                "value": "Service Brokers For Mortals",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7428",
+              "name": {
+                "value": "Taming the SVG Beast - What, When, How",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7078",
+              "name": {
+                "value": "Using Artificial Intelligence to Protect User-Generated Content",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6938",
+              "name": {
+                "value": "JSON parsing in Swift just got a whole lot easier!",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7092",
+              "name": {
+                "value": "A Year of Rust",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6956",
+              "name": {
+                "value": "Design and Dev Needs for VR and AR/MR Applications",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6775",
+              "name": {
+                "value": "Github Pull Requests for Everyone",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7423",
+              "name": {
+                "value": "Hey, You Got Your TDD in my SQL DB!",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7220",
+              "name": {
+                "value": "How Not to Destroy Data",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7743",
+              "name": {
+                "value": "Operating Petabyte-Scale Distributed Storage Systems with Human-Scale Humans",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7333",
+              "name": {
+                "value": "Pony Up To The Bar -- A New Actor Model Language",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6954",
+              "name": {
+                "value": "Querying NoSQL with SQL: HAVING Your JSON Cake and SELECTing it too",
+                "synonyms": [
+                  "querying no sequel with sequel"
+                ]
+              }
+            },
+            {
+              "id": "6918",
+              "name": {
+                "value": "Starting Over",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7231",
+              "name": {
+                "value": "Testing Layers in a Distributed Architecture",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "6739",
+              "name": {
+                "value": "Understanding Your Application with Application Insights",
+                "synonyms": []
+              }
+            },
+            {
+              "id": "7209",
+              "name": {
+                "value": "ZAPping Security Vulnerabilities in Your Development Pipeline",
+                "synonyms": []
+              }
+            }
+          ]
+        },
+        {
+          "name": "Speaker",
+          "values": [
+            {
+              "id": "5c2198a7-9081-4686-9a1b-840d758e405e",
+              "name": {
+                "value": "Indu Alagarsamy",
+                "synonyms": [
+                  "Indu",
+                  "Alagarsamy"
+                ]
+              }
+            },
+            {
+              "id": "84f4d5b5-4e54-4f13-8939-1434551b46be",
+              "name": {
+                "value": "Christina Aldan",
+                "synonyms": [
+                  "christina",
+                  "aldan"
+                ]
+              }
+            },
+            {
+              "id": "f62ed587-5dab-4818-b0f3-398f7975961a",
+              "name": {
+                "value": "Rob Allen",
+                "synonyms": [
+                  "rob",
+                  "allen",
+                  "robert"
+                ]
+              }
+            },
+            {
+              "id": "118b44db-ead1-4021-81c9-26e76e665444",
+              "name": {
+                "value": "Dale Alleshouse",
+                "synonyms": [
+                  "dale",
+                  "alleshouse"
+                ]
+              }
+            },
+            {
+              "id": "dd240822-f8e8-4d7d-b51a-81c59f128a21",
+              "name": {
+                "value": "BJ Allmon",
+                "synonyms": [
+                  "bj",
+                  "allmon"
+                ]
+              }
+            },
+            {
+              "id": "c6062873-5132-4b06-ba53-51f896a20af0",
+              "name": {
+                "value": "Ingar Almklov",
+                "synonyms": [
+                  "ingar",
+                  "almklov"
+                ]
+              }
+            },
+            {
+              "id": "852e3d92-1136-4649-a990-b87e7b806fd4",
+              "name": {
+                "value": "Ignacio Anaya",
+                "synonyms": [
+                  "ignacio",
+                  "anaya"
+                ]
+              }
+            },
+            {
+              "id": "0b5ab315-3912-45c1-83bc-48f59515e66f",
+              "name": {
+                "value": "Kim Arnett",
+                "synonyms": [
+                  "kim",
+                  "arnett"
+                ]
+              }
+            },
+            {
+              "id": "4f62ee38-767c-42ef-958a-5e222d65f567",
+              "name": {
+                "value": "Mete Atamel",
+                "synonyms": [
+                  "mete",
+                  "atamel"
+                ]
+              }
+            },
+            {
+              "id": "1595a7d3-a307-450e-9738-619b6ea7bdf4",
+              "name": {
+                "value": "Ondrej Balas",
+                "synonyms": [
+                  "ondrej",
+                  "balas",
+                  "andre",
+                  "ondray"
+                ]
+              }
+            },
+            {
+              "id": "54cd295d-10fc-4446-b612-beb0a94d98aa",
+              "name": {
+                "value": "James Balmert",
+                "synonyms": [
+                  "james",
+                  "balmert"
+                ]
+              }
+            },
+            {
+              "id": "673c0a52-056b-4d35-babb-4804cad5c562",
+              "name": {
+                "value": "Nick Barendt",
+                "synonyms": [
+                  "nick",
+                  "barendt",
+                  "barent"
+                ]
+              }
+            },
+            {
+              "id": "90d50fe1-b71f-4b42-82d1-03c64d8e9421",
+              "name": {
+                "value": "Kim Barry Detwiller",
+                "synonyms": [
+                  "kim",
+                  "barry detwiller",
+                  "barry detwiler",
+                  "detwiler",
+                  "detwiller",
+                  "barry"
+                ]
+              }
+            },
+            {
+              "id": "d416eeff-fd68-46b9-a61c-35bec2b5c885",
+              "name": {
+                "value": "Sam Basu",
+                "synonyms": [
+                  "sam",
+                  "basu",
+                  "samidip"
+                ]
+              }
+            },
+            {
+              "id": "d06d7425-c083-49ed-b44b-ae006a7d5b36",
+              "name": {
+                "value": "Aaron Bedra",
+                "synonyms": [
+                  "aaron",
+                  "bedra"
+                ]
+              }
+            },
+            {
+              "id": "85fffc76-e0df-44b8-b612-9f1e95a98387",
+              "name": {
+                "value": "Matt Behrens",
+                "synonyms": [
+                  "matt",
+                  "behrens"
+                ]
+              }
+            },
+            {
+              "id": "44fad5b9-f0b5-4b31-b416-678eb4d37e2a",
+              "name": {
+                "value": "Branden Bellanca",
+                "synonyms": [
+                  "branden",
+                  "bellanca"
+                ]
+              }
+            },
+            {
+              "id": "4a466fad-93df-4b69-8d45-a72483eae891",
+              "name": {
+                "value": "Ronda Bergman",
+                "synonyms": [
+                  "ronda",
+                  "rhonda",
+                  "bergman"
+                ]
+              }
+            },
+            {
+              "id": "0a606dbf-dafc-4213-bd6f-a76145592447",
+              "name": {
+                "value": "Brett Berliner",
+                "synonyms": [
+                  "brett",
+                  "berliner"
+                ]
+              }
+            },
+            {
+              "id": "5c8aa8b0-b9a7-48e1-a842-f2514ef6c1aa",
+              "name": {
+                "value": "Jason Blackhurst",
+                "synonyms": [
+                  "jason",
+                  "blackhurst"
+                ]
+              }
+            },
+            {
+              "id": "cc65a825-1b8f-4883-9e80-c63498faae8e",
+              "name": {
+                "value": "Jeff Blankenburg",
+                "synonyms": [
+                  "jeff",
+                  "blankenburg"
+                ]
+              }
+            },
+            {
+              "id": "49c9fba5-4c51-44b0-82be-2f2ce44fbbbf",
+              "name": {
+                "value": "Jimmy Bogard",
+                "synonyms": [
+                  "jimmy",
+                  "bogard"
+                ]
+              }
+            },
+            {
+              "id": "0adf0486-a3ad-40ba-a119-d973cb7e32d2",
+              "name": {
+                "value": "Ryan Booz",
+                "synonyms": [
+                  "ryan",
+                  "booz"
+                ]
+              }
+            },
+            {
+              "id": "79e01186-c9fd-48d1-b955-ac564352826b",
+              "name": {
+                "value": "Jerod Brennen",
+                "synonyms": [
+                  "jerod",
+                  "brennen"
+                ]
+              }
+            },
+            {
+              "id": "6a741768-6401-41f1-b2f7-71a22d36d054",
+              "name": {
+                "value": "Dusty Burwell",
+                "synonyms": [
+                  "dusty",
+                  "burwell"
+                ]
+              }
+            },
+            {
+              "id": "1c13fb09-cee3-4469-a3a6-6528f54d13df",
+              "name": {
+                "value": "Jeff Butler",
+                "synonyms": [
+                  "jeff",
+                  "butler"
+                ]
+              }
+            },
+            {
+              "id": "61156f71-8129-410f-be02-1d6093b8d498",
+              "name": {
+                "value": "Joel Byler",
+                "synonyms": [
+                  "joel",
+                  "byler"
+                ]
+              }
+            },
+            {
+              "id": "4dfce7da-8421-430e-b296-6f8fd49f1f06",
+              "name": {
+                "value": "Anne Cahalan",
+                "synonyms": [
+                  "anne",
+                  "cahalan",
+                  "callahan",
+                  "anne calahan"
+                ]
+              }
+            },
+            {
+              "id": "af664e16-f793-41a2-b4b0-faee1f1b7243",
+              "name": {
+                "value": "Julie Cameron",
+                "synonyms": [
+                  "julie",
+                  "cameron"
+                ]
+              }
+            },
+            {
+              "id": "901fe680-7e15-4e89-b672-3ae5af1f32b0",
+              "name": {
+                "value": "Adam Caudill",
+                "synonyms": [
+                  "adam",
+                  "caudill"
+                ]
+              }
+            },
+            {
+              "id": "54f00b2d-4772-4543-9a03-60e55c7fbf51",
+              "name": {
+                "value": "John Chapman",
+                "synonyms": [
+                  "john",
+                  "chapman"
+                ]
+              }
+            },
+            {
+              "id": "c0bcb40e-5422-4e41-bd72-0742e9ac766b",
+              "name": {
+                "value": "Ed Charbeneau",
+                "synonyms": [
+                  "ed",
+                  "charbeneau"
+                ]
+              }
+            },
+            {
+              "id": "35c9e596-c77d-4b1f-a3e4-c71b5a3df074",
+              "name": {
+                "value": "Jenna Charlton",
+                "synonyms": [
+                  "jenna",
+                  "charlton"
+                ]
+              }
+            },
+            {
+              "id": "96eadeb9-d369-4c28-986e-953128fe11e6",
+              "name": {
+                "value": "Kevin Cody",
+                "synonyms": [
+                  "kevin",
+                  "cody"
+                ]
+              }
+            },
+            {
+              "id": "556bff6c-5f9e-4a6e-b727-a656a5d164a8",
+              "name": {
+                "value": "Brad Colbow",
+                "synonyms": [
+                  "brad",
+                  "colbow"
+                ]
+              }
+            },
+            {
+              "id": "6e184f25-e5be-4335-a218-38f1c360683a",
+              "name": {
+                "value": "Jacob Coulter",
+                "synonyms": [
+                  "jacob",
+                  "coulter"
+                ]
+              }
+            },
+            {
+              "id": "0c1b5b7d-3492-489d-b542-39d1e516af7b",
+              "name": {
+                "value": "Franklin D",
+                "synonyms": [
+                  "franklin",
+                  "dee",
+                  "franklin dee"
+                ]
+              }
+            },
+            {
+              "id": "a08c51d6-4ede-454b-b202-0c24d9d2f313",
+              "name": {
+                "value": "John Daily",
+                "synonyms": [
+                  "john",
+                  "daily"
+                ]
+              }
+            },
+            {
+              "id": "02e49716-a556-45b4-918d-01034f49721c",
+              "name": {
+                "value": "DJ Daugherty",
+                "synonyms": [
+                  "dj",
+                  "daugherty",
+                  "dee jay",
+                  "dee jay daugherty"
+                ]
+              }
+            },
+            {
+              "id": "4f4210f6-2b35-4483-8062-8cd696421f2e",
+              "name": {
+                "value": "Timothy DeBlock",
+                "synonyms": [
+                  "tim",
+                  "timothy",
+                  "deblock",
+                  "tim deblock"
+                ]
+              }
+            },
+            {
+              "id": "dfc71197-15a9-4cff-8eb6-973e79d743b9",
+              "name": {
+                "value": "Randall Degges",
+                "synonyms": [
+                  "randall",
+                  "degges"
+                ]
+              }
+            },
+            {
+              "id": "e0cda751-3530-4db1-b884-f86315c0faba",
+              "name": {
+                "value": "David Delabassée",
+                "synonyms": [
+                  "delabassée",
+                  "dave",
+                  "david"
+                ]
+              }
+            },
+            {
+              "id": "86c3cef0-c5b0-4948-934e-d59619c1c4af",
+              "name": {
+                "value": "Colin Detwiller",
+                "synonyms": [
+                  "colin",
+                  "detwiler",
+                  "detwiller",
+                  "colin detwiler"
+                ]
+              }
+            },
+            {
+              "id": "dee57fae-0230-40ff-8a11-363bd8c2ff93",
+              "name": {
+                "value": "Nathan Dotz",
+                "synonyms": [
+                  "nathan",
+                  "dotz"
+                ]
+              }
+            },
+            {
+              "id": "571ebc58-8acf-4a1a-974a-dba58597fdb9",
+              "name": {
+                "value": "Martine Dowden",
+                "synonyms": [
+                  "martine",
+                  "dowden"
+                ]
+              }
+            },
+            {
+              "id": "20faec1c-c449-486b-9444-775621995702",
+              "name": {
+                "value": "Heather Downing",
+                "synonyms": [
+                  "heather",
+                  "downing"
+                ]
+              }
+            },
+            {
+              "id": "fbe2b039-ddd8-43d1-8461-0f6cdf52aefe",
+              "name": {
+                "value": "Kimber Dowsett",
+                "synonyms": [
+                  "kimber",
+                  "dowsett"
+                ]
+              }
+            },
+            {
+              "id": "5fbd101a-6962-499d-a733-37f9cfd14c00",
+              "name": {
+                "value": "Sarah Dutkiewicz",
+                "synonyms": [
+                  "sarah",
+                  "dutkiewicz",
+                  "dut key wicks",
+                  "sarah dut key wicks"
+                ]
+              }
+            },
+            {
+              "id": "20c6cdd0-f7c3-4b25-a53a-5dd9dd9e158c",
+              "name": {
+                "value": "Mike Earley",
+                "synonyms": [
+                  "mike",
+                  "early",
+                  "earley"
+                ]
+              }
+            },
+            {
+              "id": "8456deff-e95c-4871-94a5-c826e497f20b",
+              "name": {
+                "value": "Michael Eaton",
+                "synonyms": [
+                  "mike eaton",
+                  "mike",
+                  "michael",
+                  "eaton"
+                ]
+              }
+            },
+            {
+              "id": "08f4cee5-5959-4ca2-8135-db5cefb24671",
+              "name": {
+                "value": "Anthony Eden",
+                "synonyms": [
+                  "anthony",
+                  "eden"
+                ]
+              }
+            },
+            {
+              "id": "177f9509-11a9-4fe5-a5ec-4046c5cd6c4c",
+              "name": {
+                "value": "Wes Eklund",
+                "synonyms": [
+                  "wes",
+                  "eklund"
+                ]
+              }
+            },
+            {
+              "id": "24f0b931-4d91-4671-b399-496c8aa97d8a",
+              "name": {
+                "value": "Joe Erickson",
+                "synonyms": [
+                  "joe",
+                  "erickson"
+                ]
+              }
+            },
+            {
+              "id": "6b26eebe-40e5-4bcd-9473-6ce8a90877e7",
+              "name": {
+                "value": "Jason Farrell",
+                "synonyms": [
+                  "jason",
+                  "farrell"
+                ]
+              }
+            },
+            {
+              "id": "756fdc37-75f0-447b-85df-212a78152a55",
+              "name": {
+                "value": "Marina Fedner",
+                "synonyms": [
+                  "marina",
+                  "fedner"
+                ]
+              }
+            },
+            {
+              "id": "53f6677c-9f80-421d-9a82-9b1e2714cea8",
+              "name": {
+                "value": "Andrew Fitzgerald",
+                "synonyms": [
+                  "andrew",
+                  "fitzgerald",
+                  "fitz"
+                ]
+              }
+            },
+            {
+              "id": "b1585fbf-2c65-4dd9-8138-11e4c3e1a63b",
+              "name": {
+                "value": "Ryan Foote",
+                "synonyms": [
+                  "ryan",
+                  "foote",
+                  "ryan foot",
+                  "foot"
+                ]
+              }
+            },
+            {
+              "id": "4eb6c55a-a1e2-40fa-a673-acaff756a0c0",
+              "name": {
+                "value": "Brandy Foster",
+                "synonyms": [
+                  "brandy",
+                  "foster"
+                ]
+              }
+            },
+            {
+              "id": "c7659646-af5b-4cf6-9cb9-f340e699abbb",
+              "name": {
+                "value": "Kevin Fox",
+                "synonyms": [
+                  "kevin",
+                  "fox"
+                ]
+              }
+            },
+            {
+              "id": "4cebfa84-34eb-4e69-9de8-c50e6031133b",
+              "name": {
+                "value": "Caitlin Geier",
+                "synonyms": [
+                  "caitlin",
+                  "geier"
+                ]
+              }
+            },
+            {
+              "id": "04650a2c-b4dd-4916-9e37-fef963867ce8",
+              "name": {
+                "value": "Brian Genesio",
+                "synonyms": [
+                  "brian",
+                  "genesio"
+                ]
+              }
+            },
+            {
+              "id": "474cc3d7-d6d6-4b7e-965c-36d585bf8023",
+              "name": {
+                "value": "Suganthi Giridharan",
+                "synonyms": [
+                  "suganthi",
+                  "giridharan"
+                ]
+              }
+            },
+            {
+              "id": "b57674a1-6007-4330-a825-71636045914e",
+              "name": {
+                "value": "Wolfgang Goerlich",
+                "synonyms": [
+                  "j wolfgang",
+                  "wolfgang",
+                  "goerlich",
+                  "j wolfgang goerlich"
+                ]
+              }
+            },
+            {
+              "id": "da797d88-12b2-487c-8c28-27ad526a6943",
+              "name": {
+                "value": "Zev Goldstein",
+                "synonyms": [
+                  "zev",
+                  "goldstein"
+                ]
+              }
+            },
+            {
+              "id": "89a4ad22-2944-4af2-8932-107d3c3d734b",
+              "name": {
+                "value": "Wayne Goode",
+                "synonyms": [
+                  "wayne",
+                  "goode"
+                ]
+              }
+            },
+            {
+              "id": "366ff90e-4d9d-4f0f-98ea-d18a71824df3",
+              "name": {
+                "value": "Tommy Graves",
+                "synonyms": [
+                  "tommy",
+                  "tom",
+                  "graves"
+                ]
+              }
+            },
+            {
+              "id": "22947de0-c4bb-405d-9db3-3feff151fbfa",
+              "name": {
+                "value": "Brian Greene",
+                "synonyms": [
+                  "brian",
+                  "greene"
+                ]
+              }
+            },
+            {
+              "id": "f1da931d-6b39-40a0-8b7e-7e355a89d223",
+              "name": {
+                "value": "Kevin Griffin",
+                "synonyms": [
+                  "kevin",
+                  "griffin"
+                ]
+              }
+            },
+            {
+              "id": "cbbc20f2-ea67-4efb-b0e3-533cd1feb0a8",
+              "name": {
+                "value": "Rhonda Grimm",
+                "synonyms": [
+                  "rhonda",
+                  "grimm"
+                ]
+              }
+            },
+            {
+              "id": "d01e6681-8aa4-4ba2-912a-d6ae7dca2281",
+              "name": {
+                "value": "Ivar Grimstad",
+                "synonyms": [
+                  "ivar",
+                  "grimstad"
+                ]
+              }
+            },
+            {
+              "id": "9427eb51-8f41-40cb-a9b1-37ca192003b9",
+              "name": {
+                "value": "Matthew Groves",
+                "synonyms": [
+                  "matthew",
+                  "groves",
+                  "matthew d groves",
+                  "matt groves"
+                ]
+              }
+            },
+            {
+              "id": "3bf2da59-fae1-421b-b526-f6e51e23536b",
+              "name": {
+                "value": "Jameson Hampton",
+                "synonyms": [
+                  "Jamey",
+                  "Hampton",
+                  "Jamey Hampton",
+                  "Jameson"
+                ]
+              }
+            },
+            {
+              "id": "76250657-3133-4819-9e4f-3e873c7f6ab2",
+              "name": {
+                "value": "Sam Hanes",
+                "synonyms": [
+                  "sam",
+                  "hanes"
+                ]
+              }
+            },
+            {
+              "id": "45c35283-c08f-4ac1-8bfb-ab7d465abf34",
+              "name": {
+                "value": "Thomas Haver",
+                "synonyms": [
+                  "thomas",
+                  "haver",
+                  "tom haver",
+                  "tom"
+                ]
+              }
+            },
+            {
+              "id": "412f4dda-3ac0-4af8-93a7-82f9ee1935a3",
+              "name": {
+                "value": "Mark Heckler",
+                "synonyms": [
+                  "mark",
+                  "heckler"
+                ]
+              }
+            },
+            {
+              "id": "3f7421fe-ab14-4ede-9331-89ac85e0fa08",
+              "name": {
+                "value": "Steven Hicks",
+                "synonyms": [
+                  "steven",
+                  "hicks",
+                  "steve",
+                  "steve hicks"
+                ]
+              }
+            },
+            {
+              "id": "a5b9d365-c3f6-42d7-b176-18e2fe232cd3",
+              "name": {
+                "value": "Craig Hills",
+                "synonyms": [
+                  "craig",
+                  "hills"
+                ]
+              }
+            },
+            {
+              "id": "f39c4805-0a5a-42b8-955e-835a875acee6",
+              "name": {
+                "value": "Clint Hoagland",
+                "synonyms": [
+                  "clint",
+                  "hoagland"
+                ]
+              }
+            },
+            {
+              "id": "7557c870-5bdc-46fb-a675-bfa87c3e92cc",
+              "name": {
+                "value": "David Hoerster",
+                "synonyms": [
+                  "david",
+                  "david hoerster",
+                  "dave hoerster"
+                ]
+              }
+            },
+            {
+              "id": "4b729e74-575f-42dc-814e-6c5068df7422",
+              "name": {
+                "value": "Christina Holland",
+                "synonyms": [
+                  "christina",
+                  "holland"
+                ]
+              }
+            },
+            {
+              "id": "afdd2428-10c7-4392-af03-ae467a114a50",
+              "name": {
+                "value": "Tim Hoolihan",
+                "synonyms": [
+                  "tim",
+                  "hoolihan"
+                ]
+              }
+            },
+            {
+              "id": "1e3a9d81-bd1c-47ad-b068-3c2064f62050",
+              "name": {
+                "value": "Cory House",
+                "synonyms": [
+                  "the cory house",
+                  "cory",
+                  "house"
+                ]
+              }
+            },
+            {
+              "id": "2a3e0b9a-8cf2-4515-a7d1-0e022d3505be",
+              "name": {
+                "value": "Karl Hughes",
+                "synonyms": [
+                  "karl",
+                  "hughes"
+                ]
+              }
+            },
+            {
+              "id": "a0d9d587-2518-4152-9f77-a3710b63abfb",
+              "name": {
+                "value": "Robert Hurlbut",
+                "synonyms": [
+                  "robert",
+                  "hurlbut"
+                ]
+              }
+            },
+            {
+              "id": "1c924856-367e-49b4-bc85-dfbc20ee32d8",
+              "name": {
+                "value": "Jeremy Hutchinson",
+                "synonyms": [
+                  "jeremy",
+                  "hutchinson"
+                ]
+              }
+            },
+            {
+              "id": "deebaaf7-41b1-4b85-a9b8-53f5dac3a628",
+              "name": {
+                "value": "Steve Jackson",
+                "synonyms": [
+                  "steve",
+                  "jackson"
+                ]
+              }
+            },
+            {
+              "id": "65993fe1-3960-4d31-acbb-0fbd6e635cc6",
+              "name": {
+                "value": "Caleb Jenkins",
+                "synonyms": [
+                  "caleb",
+                  "jenkins"
+                ]
+              }
+            },
+            {
+              "id": "9c335b12-e6d5-43f8-9174-9611bff1c1dd",
+              "name": {
+                "value": "Tyler Jennings",
+                "synonyms": [
+                  "tyler",
+                  "jennings"
+                ]
+              }
+            },
+            {
+              "id": "08865cab-a1b3-48de-9b7d-7811ed1720b3",
+              "name": {
+                "value": "Colin Jones",
+                "synonyms": [
+                  "colin",
+                  "jones"
+                ]
+              }
+            },
+            {
+              "id": "b6e14e1c-5b57-42c2-a01d-f8e8b7897e54",
+              "name": {
+                "value": "Seth Juarez",
+                "synonyms": [
+                  "seth",
+                  "juarez"
+                ]
+              }
+            },
+            {
+              "id": "23377367-10d6-499e-ab99-9ee4edc32beb",
+              "name": {
+                "value": "Christopher Judd",
+                "synonyms": [
+                  "chris",
+                  "christopher",
+                  "judd",
+                  "chris judd"
+                ]
+              }
+            },
+            {
+              "id": "fbcf5f72-1a9c-4f01-a61a-004d091146a7",
+              "name": {
+                "value": "Rob Keefer",
+                "synonyms": [
+                  "rob",
+                  "keefer"
+                ]
+              }
+            },
+            {
+              "id": "949878bb-1c47-406f-989c-ff79a6b98d13",
+              "name": {
+                "value": "Stuart Kent",
+                "synonyms": [
+                  "stuart",
+                  "kent"
+                ]
+              }
+            },
+            {
+              "id": "8f4e9ee9-9288-4010-9ba3-416211a2c8be",
+              "name": {
+                "value": "Adam Kerr",
+                "synonyms": [
+                  "adam",
+                  "kerr"
+                ]
+              }
+            },
+            {
+              "id": "9140b58c-f77c-4104-a329-be499e1601b2",
+              "name": {
+                "value": "John Keyes",
+                "synonyms": [
+                  "john",
+                  "keyes"
+                ]
+              }
+            },
+            {
+              "id": "ab5cfdc3-bea4-45a9-bf2b-321dc7bd2632",
+              "name": {
+                "value": "Marcus King",
+                "synonyms": [
+                  "marcus",
+                  "king"
+                ]
+              }
+            },
+            {
+              "id": "cd8432f9-b39d-46f5-bfa4-ad3e647df338",
+              "name": {
+                "value": "Brian King",
+                "synonyms": [
+                  "brian",
+                  "king"
+                ]
+              }
+            },
+            {
+              "id": "4955efbc-1c58-464c-9c8c-4e317fdbd3d7",
+              "name": {
+                "value": "Jim Kirkbride",
+                "synonyms": [
+                  "jim",
+                  "kirkbride"
+                ]
+              }
+            },
+            {
+              "id": "2a823543-9c11-4f18-8af9-83fe28c595ec",
+              "name": {
+                "value": "Rae Krantz",
+                "synonyms": [
+                  "rae",
+                  "rachel",
+                  "rachel krantz",
+                  "krantz"
+                ]
+              }
+            },
+            {
+              "id": "a8e2fa9d-e261-464b-b229-b29b432b3fab",
+              "name": {
+                "value": "Nick Landry",
+                "synonyms": [
+                  "nick",
+                  "landry"
+                ]
+              }
+            },
+            {
+              "id": "81ad4be3-a81b-4c88-8f3d-5d18e653fe71",
+              "name": {
+                "value": "Amanda Lange",
+                "synonyms": [
+                  "amanda",
+                  "lange"
+                ]
+              }
+            },
+            {
+              "id": "4c5bfe3c-98e5-4ea9-9750-d47c4ffc5e02",
+              "name": {
+                "value": "Tim LeMaster",
+                "synonyms": [
+                  "tim",
+                  "lemaster"
+                ]
+              }
+            },
+            {
+              "id": "2f21c0fe-dfd7-4107-a87e-6c30cf489057",
+              "name": {
+                "value": "Kevin Leung",
+                "synonyms": [
+                  "kevin",
+                  "leung"
+                ]
+              }
+            },
+            {
+              "id": "418f3bf8-721a-4503-9a56-08ae6b07125c",
+              "name": {
+                "value": "Nathan Loding",
+                "synonyms": [
+                  "nathan",
+                  "loding"
+                ]
+              }
+            },
+            {
+              "id": "3e4b2508-1d6e-46b4-83a1-a5f0e9baaf59",
+              "name": {
+                "value": "David Lucas",
+                "synonyms": [
+                  "david",
+                  "lucas"
+                ]
+              }
+            },
+            {
+              "id": "fb21be70-1467-4103-bd2b-44c86c2c3490",
+              "name": {
+                "value": "Anders Lybecker",
+                "synonyms": [
+                  "anders",
+                  "lybecker"
+                ]
+              }
+            },
+            {
+              "id": "c703c1d2-1880-46fc-9433-7a0b94ccd1ca",
+              "name": {
+                "value": "Tony Makeka",
+                "synonyms": [
+                  "tony",
+                  "makeka"
+                ]
+              }
+            },
+            {
+              "id": "541ff243-3a5e-468e-9b52-800e647f342f",
+              "name": {
+                "value": "Greg Malcolm",
+                "synonyms": [
+                  "greg",
+                  "malcolm"
+                ]
+              }
+            },
+            {
+              "id": "3bae9249-e692-4a7d-867b-0c1330a45db4",
+              "name": {
+                "value": "Jennifer Marsman",
+                "synonyms": [
+                  "jennifer",
+                  "marsman",
+                  "marrs man",
+                  "jennifer mars men",
+                  "jennifer marrs men"
+                ]
+              }
+            },
+            {
+              "id": "c82f8b3b-88f4-46f4-b677-dbb665ac04b4",
+              "name": {
+                "value": "Kim McGill",
+                "synonyms": [
+                  "kim",
+                  "mcgill"
+                ]
+              }
+            },
+            {
+              "id": "d0a23b1b-a249-43da-a0c1-6b209aaf8bfd",
+              "name": {
+                "value": "Amber McKenzie",
+                "synonyms": [
+                  "amber",
+                  "mckenzie"
+                ]
+              }
+            },
+            {
+              "id": "baa2dd3b-c27f-4f54-b291-d5c78c89b555",
+              "name": {
+                "value": "Jeff McKenzie",
+                "synonyms": [
+                  "jeff",
+                  "mckenzie"
+                ]
+              }
+            },
+            {
+              "id": "cb0a2ed3-ba20-4e3d-821c-152b35e8ed1f",
+              "name": {
+                "value": "Russell McMahon",
+                "synonyms": [
+                  "russ",
+                  "russ mcmahon",
+                  "russell",
+                  "mcmahon"
+                ]
+              }
+            },
+            {
+              "id": "4df51560-055e-425d-bf6b-4a0ff3bc9f25",
+              "name": {
+                "value": "Catherine Meade",
+                "synonyms": [
+                  "catherine",
+                  "meade"
+                ]
+              }
+            },
+            {
+              "id": "6f11f422-0558-4b6b-9d4d-a7e99522a21b",
+              "name": {
+                "value": "Michael Meadows",
+                "synonyms": [
+                  "michael",
+                  "meadows"
+                ]
+              }
+            },
+            {
+              "id": "9ca9716b-6c75-42d5-ae4e-17a712207118",
+              "name": {
+                "value": "Timothy Mecklem",
+                "synonyms": [
+                  "tim",
+                  "mecklem",
+                  "tim mecklem",
+                  "timothy"
+                ]
+              }
+            },
+            {
+              "id": "eb63761e-810d-4549-86bb-2aacf320c936",
+              "name": {
+                "value": "John Melton",
+                "synonyms": [
+                  "john",
+                  "melton"
+                ]
+              }
+            },
+            {
+              "id": "54e15efd-9a59-4064-922b-d87f2f777c9a",
+              "name": {
+                "value": "Ellen Mey",
+                "synonyms": [
+                  "ellen",
+                  "mey"
+                ]
+              }
+            },
+            {
+              "id": "aff45ae8-f1f3-422d-b0b7-31098bd7e2a8",
+              "name": {
+                "value": "Ryan Miller",
+                "synonyms": [
+                  "ryan",
+                  "miller"
+                ]
+              }
+            },
+            {
+              "id": "9d113a83-30ff-41df-b093-7b44f852b7ce",
+              "name": {
+                "value": "Mark Miller",
+                "synonyms": [
+                  "mark",
+                  "miller"
+                ]
+              }
+            },
+            {
+              "id": "7c05528e-9c9e-4643-ae9d-44c2dd0d6ebc",
+              "name": {
+                "value": "Kendall Miller",
+                "synonyms": [
+                  "kendall",
+                  "miller"
+                ]
+              }
+            },
+            {
+              "id": "64f52f4f-3d83-459e-980d-007a4546220d",
+              "name": {
+                "value": "Joe Morgan",
+                "synonyms": [
+                  "joe",
+                  "morgan"
+                ]
+              }
+            },
+            {
+              "id": "c79ded73-996c-4393-9785-d8dae8dd2394",
+              "name": {
+                "value": "Doug Morgan",
+                "synonyms": [
+                  "doug",
+                  "morgan"
+                ]
+              }
+            },
+            {
+              "id": "6ae477dc-60fc-4e91-9b11-8c2bebca4885",
+              "name": {
+                "value": "David Neal",
+                "synonyms": [
+                  "david",
+                  "neal"
+                ]
+              }
+            },
+            {
+              "id": "b492cd3c-4d4c-42bc-9605-136c46f613d0",
+              "name": {
+                "value": "Michael Norton",
+                "synonyms": [
+                  "doc norton",
+                  "michael",
+                  "norton",
+                  "doc"
+                ]
+              }
+            },
+            {
+              "id": "730509c3-8979-46cb-9153-83ce38599f27",
+              "name": {
+                "value": "Jarred Olson",
+                "synonyms": [
+                  "jarred",
+                  "olson",
+                  "jared"
+                ]
+              }
+            },
+            {
+              "id": "aa10f034-61fe-4460-9f95-7e802a8ba08a",
+              "name": {
+                "value": "Ali Orlando",
+                "synonyms": [
+                  "ali",
+                  "orlando"
+                ]
+              }
+            },
+            {
+              "id": "507b8231-d823-4810-b154-077ba807dfb9",
+              "name": {
+                "value": "Robert Palmer",
+                "synonyms": [
+                  "robert",
+                  "palmer"
+                ]
+              }
+            },
+            {
+              "id": "3119f670-df4c-429b-921d-89d2162d4586",
+              "name": {
+                "value": "Sarala Pandey",
+                "synonyms": [
+                  "sarala",
+                  "pandey"
+                ]
+              }
+            },
+            {
+              "id": "86df42cb-3f25-4235-a0e7-43aa4815d0c8",
+              "name": {
+                "value": "John Pendexter",
+                "synonyms": [
+                  "john",
+                  "pendexter"
+                ]
+              }
+            },
+            {
+              "id": "ffaf3bab-ca87-4519-bcaf-204928666552",
+              "name": {
+                "value": "Roberto Perez Alcolea",
+                "synonyms": [
+                  "roberto alcolea",
+                  "roberto",
+                  "perez",
+                  "alcolea"
+                ]
+              }
+            },
+            {
+              "id": "1434dfae-bc8d-4238-b34c-2afb3edab4b3",
+              "name": {
+                "value": "Michael Perry",
+                "synonyms": [
+                  "michael",
+                  "perry"
+                ]
+              }
+            },
+            {
+              "id": "7f2c76d2-b751-4fd7-ab7c-151fbbe09770",
+              "name": {
+                "value": "Seth Petry-Johnson",
+                "synonyms": [
+                  "seth",
+                  "petry",
+                  "johnson",
+                  "petry johnson",
+                  "seth johnson"
+                ]
+              }
+            },
+            {
+              "id": "6f679f83-990f-4f9a-9c2c-7daf866915d6",
+              "name": {
+                "value": "Justin Pihony",
+                "synonyms": [
+                  "justin",
+                  "pihony"
+                ]
+              }
+            },
+            {
+              "id": "90770b73-d1ca-4a19-b1e5-3bffca2a091f",
+              "name": {
+                "value": "Allison Pollard",
+                "synonyms": [
+                  "allison",
+                  "pollard"
+                ]
+              }
+            },
+            {
+              "id": "45202053-f843-4251-a753-2a8f612a00ac",
+              "name": {
+                "value": "Jeff Putz",
+                "synonyms": [
+                  "jeff",
+                  "putz"
+                ]
+              }
+            },
+            {
+              "id": "fd245182-1b3b-45ac-93f6-cac098581200",
+              "name": {
+                "value": "Priya Rajagopal",
+                "synonyms": [
+                  "priya",
+                  "rajagopal"
+                ]
+              }
+            },
+            {
+              "id": "d147d756-164a-43bb-ae5c-944b40166fe0",
+              "name": {
+                "value": "Shawn Rakowski",
+                "synonyms": [
+                  "shawn",
+                  "rakowski"
+                ]
+              }
+            },
+            {
+              "id": "8bb503fc-180d-48e4-90fe-236f3108ec4c",
+              "name": {
+                "value": "Abriham Ravikumar",
+                "synonyms": [
+                  "abriham",
+                  "ravikumar"
+                ]
+              }
+            },
+            {
+              "id": "963d2e51-6196-41bd-a43b-3a026bd8062c",
+              "name": {
+                "value": "Matthew Renze",
+                "synonyms": [
+                  "matthew",
+                  "renze"
+                ]
+              }
+            },
+            {
+              "id": "0505a990-820f-4216-8c7f-26ef83a6fbaf",
+              "name": {
+                "value": "David Resseguie",
+                "synonyms": [
+                  "david",
+                  "resseguie"
+                ]
+              }
+            },
+            {
+              "id": "87187662-0165-4166-9f43-f8921aceb1dc",
+              "name": {
+                "value": "Jared Rhodes",
+                "synonyms": [
+                  "jared",
+                  "rhodes"
+                ]
+              }
+            },
+            {
+              "id": "bed8df0f-3af4-40b8-bcf9-61844e9266c6",
+              "name": {
+                "value": "Mark Ryan",
+                "synonyms": [
+                  "mark",
+                  "ryan"
+                ]
+              }
+            },
+            {
+              "id": "c459e92a-1aa6-49ea-b120-fb72e1a44a83",
+              "name": {
+                "value": "Baruch Sadogursky",
+                "synonyms": [
+                  "baruch",
+                  "sadogursky"
+                ]
+              }
+            },
+            {
+              "id": "57e8f811-ebe9-4d7f-9677-49ca0f027940",
+              "name": {
+                "value": "Don Schenck",
+                "synonyms": [
+                  "don",
+                  "schenck"
+                ]
+              }
+            },
+            {
+              "id": "acc7acdc-a631-4b2c-b191-3a4317d01602",
+              "name": {
+                "value": "Nathan Schlehlein",
+                "synonyms": [
+                  "nathan",
+                  "schlehlein"
+                ]
+              }
+            },
+            {
+              "id": "e2216a62-dc50-463e-b359-6dadfe04e963",
+              "name": {
+                "value": "Sarah Sexton",
+                "synonyms": [
+                  "sarah",
+                  "sexton"
+                ]
+              }
+            },
+            {
+              "id": "36e05280-a3a9-4435-82f6-50afbed4a388",
+              "name": {
+                "value": "Stephen Shary",
+                "synonyms": [
+                  "stephen",
+                  "shary"
+                ]
+              }
+            },
+            {
+              "id": "b623a181-ba91-460e-b35e-075cd3f3cdc9",
+              "name": {
+                "value": "Brian Sherwin",
+                "synonyms": [
+                  "brian",
+                  "sherwin"
+                ]
+              }
+            },
+            {
+              "id": "489dc2f1-4db8-4432-a374-f11158d2877e",
+              "name": {
+                "value": "Kevin Shomper",
+                "synonyms": [
+                  "kevin",
+                  "shomper"
+                ]
+              }
+            },
+            {
+              "id": "b357b7ce-91ce-4292-90da-0a6956cd6156",
+              "name": {
+                "value": "Gary Short",
+                "synonyms": [
+                  "gary",
+                  "short"
+                ]
+              }
+            },
+            {
+              "id": "a52e82cc-7acc-4089-8b18-3c3ef3a0b86f",
+              "name": {
+                "value": "Scott Showalter",
+                "synonyms": [
+                  "scott",
+                  "showalter"
+                ]
+              }
+            },
+            {
+              "id": "a2b38879-8e47-4093-bbf8-9644fac04f06",
+              "name": {
+                "value": "Carla Siler-Maddalena",
+                "synonyms": [
+                  "carla",
+                  "siler",
+                  "maddalena",
+                  "carla maddalena"
+                ]
+              }
+            },
+            {
+              "id": "bb2ee690-e6b6-4031-8acb-956754a8a6e8",
+              "name": {
+                "value": "Jon Skeet",
+                "synonyms": [
+                  "jon",
+                  "skeet"
+                ]
+              }
+            },
+            {
+              "id": "ccde9c02-dce8-4f79-85cd-b2c07d502f56",
+              "name": {
+                "value": "Josiah Sleppy",
+                "synonyms": [
+                  "josiah",
+                  "sleppy"
+                ]
+              }
+            },
+            {
+              "id": "a1dcad3d-2268-4ed8-99e9-f9d12fce2a26",
+              "name": {
+                "value": "Matt Smith",
+                "synonyms": [
+                  "matt",
+                  "smith"
+                ]
+              }
+            },
+            {
+              "id": "770b8c56-d751-434c-bd27-b19f7df67da3",
+              "name": {
+                "value": "Steve Smith",
+                "synonyms": [
+                  "steve",
+                  "smith"
+                ]
+              }
+            },
+            {
+              "id": "916792e9-3147-423a-a042-89a85cf1049a",
+              "name": {
+                "value": "Matthew Soucoup",
+                "synonyms": [
+                  "matthew",
+                  "soucoup"
+                ]
+              }
+            },
+            {
+              "id": "b10c520a-3027-40b9-9002-9ac1f46ea398",
+              "name": {
+                "value": "Raghavan Srinivas",
+                "synonyms": [
+                  "raghavan",
+                  "srinivas"
+                ]
+              }
+            },
+            {
+              "id": "b8b39866-2802-4aff-91c6-1744806e8129",
+              "name": {
+                "value": "Magnus Stahre",
+                "synonyms": [
+                  "magnus",
+                  "stahre"
+                ]
+              }
+            },
+            {
+              "id": "7c1591aa-12ca-4ef4-ae3d-2acd2583adf9",
+              "name": {
+                "value": "Jamie Strauss",
+                "synonyms": [
+                  "jamie",
+                  "strauss"
+                ]
+              }
+            },
+            {
+              "id": "f08c359f-7686-4cf5-afb6-ed953771c941",
+              "name": {
+                "value": "Jeff Strauss",
+                "synonyms": [
+                  "jeff",
+                  "strauss"
+                ]
+              }
+            },
+            {
+              "id": "a01d978d-3330-4384-b5c0-6b39d9b28d95",
+              "name": {
+                "value": "Craig Stuntz",
+                "synonyms": [
+                  "craig",
+                  "stuntz"
+                ]
+              }
+            },
+            {
+              "id": "0682efff-13b1-49ca-819b-efb840c6501a",
+              "name": {
+                "value": "Steven Swenson",
+                "synonyms": [
+                  "steven",
+                  "swenson"
+                ]
+              }
+            },
+            {
+              "id": "0de90b5d-4192-4952-9f3c-c0d20bdc54ce",
+              "name": {
+                "value": "Damian Synadinos",
+                "synonyms": [
+                  "damian",
+                  "synadinos"
+                ]
+              }
+            },
+            {
+              "id": "aee0ad5c-8921-46ad-8ace-fb49a5c6043d",
+              "name": {
+                "value": "Riccardo Terrell",
+                "synonyms": [
+                  "riccardo",
+                  "ricky",
+                  "terrell",
+                  "ricky terrell"
+                ]
+              }
+            },
+            {
+              "id": "c709db38-9d29-493c-bdeb-445543a17cdd",
+              "name": {
+                "value": "David Truxall",
+                "synonyms": [
+                  "david",
+                  "truxall"
+                ]
+              }
+            },
+            {
+              "id": "074ed5bc-1de7-49c7-a438-f0301ab38d20",
+              "name": {
+                "value": "Jason Voegele",
+                "synonyms": [
+                  "jason",
+                  "voegele"
+                ]
+              }
+            },
+            {
+              "id": "f22b27e2-2a2d-4697-aa92-b3d8c62fdf08",
+              "name": {
+                "value": "Jennifer Wadella",
+                "synonyms": [
+                  "jennifer",
+                  "wadella"
+                ]
+              }
+            },
+            {
+              "id": "c3eb1354-7f42-40a9-af85-1b90bb2ff529",
+              "name": {
+                "value": "Josh Wallace",
+                "synonyms": [
+                  "josh",
+                  "wallace"
+                ]
+              }
+            },
+            {
+              "id": "0380e26c-9598-4252-a151-dd8eed08e804",
+              "name": {
+                "value": "Shannon Wells",
+                "synonyms": [
+                  "shannon",
+                  "wells"
+                ]
+              }
+            },
+            {
+              "id": "db9ff7a8-05a2-4f22-9ed0-8ea59d864bb9",
+              "name": {
+                "value": "Erik Wendel",
+                "synonyms": [
+                  "erik",
+                  "wendel"
+                ]
+              }
+            },
+            {
+              "id": "8850dde1-fd5e-4a75-ac1b-a8df5308153a",
+              "name": {
+                "value": "Casey West",
+                "synonyms": [
+                  "casey",
+                  "west"
+                ]
+              }
+            },
+            {
+              "id": "6d3e1d7a-7482-4cb8-b131-55b1483f2e6e",
+              "name": {
+                "value": "Dan Wiebe",
+                "synonyms": [
+                  "dan",
+                  "wiebe"
+                ]
+              }
+            },
+            {
+              "id": "a313d88c-b561-4686-b5cf-d43d39ac09cc",
+              "name": {
+                "value": "Heather Wilde",
+                "synonyms": [
+                  "heather",
+                  "wilde"
+                ]
+              }
+            },
+            {
+              "id": "47df643a-17fd-4e9a-93bb-dfe1eca215b3",
+              "name": {
+                "value": "Matt Williams",
+                "synonyms": [
+                  "matt",
+                  "williams"
+                ]
+              }
+            },
+            {
+              "id": "178fc3e6-7b62-41f4-92a9-59287d742709",
+              "name": {
+                "value": "Mark Windholtz",
+                "synonyms": [
+                  "mark",
+                  "windholtz"
+                ]
+              }
+            },
+            {
+              "id": "89bed929-527c-4a22-9e35-93c3ce0d52c7",
+              "name": {
+                "value": "Matt Winkler",
+                "synonyms": [
+                  "matt",
+                  "winkler"
+                ]
+              }
+            },
+            {
+              "id": "11df87c5-0f19-493a-92a7-f8b175c51aee",
+              "name": {
+                "value": "Daniel Wood",
+                "synonyms": [
+                  "daniel",
+                  "wood"
+                ]
+              }
+            },
+            {
+              "id": "6363e6df-27cf-4794-a414-0fa1cd13d34a",
+              "name": {
+                "value": "Mike Woolard",
+                "synonyms": [
+                  "mike",
+                  "woolard"
+                ]
+              }
+            },
+            {
+              "id": "226902de-b4b9-40fb-8f3f-5ad3443cef3a",
+              "name": {
+                "value": "John Wright",
+                "synonyms": [
+                  "john",
+                  "wright",
+                  "right"
+                ]
+              }
+            },
+            {
+              "id": "5ee1cae5-780c-46e0-bead-b99b2a5b10c6",
+              "name": {
+                "value": "Mercedes Wyss",
+                "synonyms": [
+                  "mercedes",
+                  "wyss"
+                ]
+              }
+            },
+            {
+              "id": "fd77b7e1-b671-479c-ae9c-792eda7c9a6e",
+              "name": {
+                "value": "Michael Yotive",
+                "synonyms": [
+                  "michael",
+                  "yotive"
+                ]
+              }
+            },
+            {
+              "id": "eb0a5953-901e-4dde-84fe-fbfe1d6957d8",
+              "name": {
+                "value": "Ted Young",
+                "synonyms": [
+                  "ted",
+                  "young"
+                ]
+              }
+            },
+            {
+              "id": "1453dc65-8f0b-4a59-a6d4-ad896d376fb2",
+              "name": {
+                "value": "Diane Zajac-Woodie",
+                "synonyms": [
+                  "diane",
+                  "zajac",
+                  "woodie",
+                  "diane woodie"
+                ]
+              }
+            },
+            {
+              "id": "9c0c189c-776e-4e53-8b9a-306273f0baa4",
+              "name": {
+                "value": "Philip Zastrow",
+                "synonyms": [
+                  "philip",
+                  "zastrow"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AttendeePartyIntent",
+          "samples": [
+            "when is the attendee party",
+            "attendee party",
+            "waterpark party",
+            "what time is the attendee party",
+            "what time is the party"
+          ],
+          "slots": []
+        },
+        {
+          "name": "BreakfastIntent",
+          "samples": [
+            "when is breakfast",
+            "what time is breakfast",
+            "breakfast",
+            "morning food"
+          ],
+          "slots": []
+        },
+        {
+          "name": "GameRoomIntent",
+          "samples": [
+            "when is the gameroom open",
+            "what time does the gameroom open",
+            "where can I play board games",
+            "what time is gaming",
+            "when is board game time",
+            "gameroom",
+            "board games"
+          ],
+          "slots": []
+        },
+        {
+          "name": "JamSessionIntent",
+          "samples": [
+            "when is the jam session",
+            "what time is the jam session",
+            "where is the jam session",
+            "jam sessio"
+          ],
+          "slots": []
+        },
+        {
+          "name": "LightningTalksIntent",
+          "samples": [
+            "lightning talks",
+            "when are the lightning talks",
+            "what time are the lightning talks"
+          ],
+          "slots": []
+        },
+        {
+          "name": "LunchIntent",
+          "samples": [
+            "what time is lunch",
+            "when is lunch",
+            "when is lunch served",
+            "when can I eat",
+            "lunch",
+            "when lunch is served"
+          ],
+          "slots": []
+        },
+        {
+          "name": "OfficeHoursIntent",
+          "samples": [
+            "office hours",
+            "when are office hours",
+            "what time are office hours",
+            "where are office hours"
+          ],
+          "slots": []
+        },
+        {
+          "name": "PrecompilerMixerIntent",
+          "samples": [
+            "when is the mixer",
+            "when is the precompiler mixer",
+            "what time is the precompiler mixer",
+            "precompiler mixer"
+          ],
+          "slots": []
+        },
+        {
+          "name": "RaffleIntent",
+          "samples": [
+            "when is the raffle",
+            "what time is the raffle",
+            "when is the raffle happening",
+            "where is the raffle",
+            "raffle",
+            "giveaways"
+          ],
+          "slots": []
+        },
+        {
+          "name": "SessionIntent",
+          "samples": [
+            "tell me about {session}",
+            "what is {session}",
+            "what time is {session}",
+            "when is {session}",
+            "what room is {session} in",
+            "where is {session}",
+            "what time {session} is",
+            "{session}"
+          ],
+          "slots": [
+            {
+              "name": "session",
+              "type": "Session"
+            }
+          ]
+        },
+        {
+          "name": "SpeakerIntent",
+          "samples": [
+            "who is {speaker}",
+            "who is {speaker} on twitter",
+            "about {speaker}",
+            "tell me about {speaker}",
+            "{speaker}"
+          ],
+          "slots": [
+            {
+              "name": "speaker",
+              "type": "Speaker"
+            }
+          ]
+        },
+        {
+          "name": "WelcomeReceptionIntent",
+          "samples": [
+            "what time is the welcome reception",
+            "when is the welcome reception",
+            "where is the welcome reception",
+            "welcome receptio"
+          ],
+          "slots": []
+        },
+        {
+          "name": "WinnerIntent",
+          "samples": [
+            "who won",
+            "who won the echo",
+            "did I win the echo",
+            "who are the winners",
+            "who was the winner",
+            "did i win",
+            "who got the echo",
+            "if i won",
+            "i won",
+            "who the winners are"
+          ],
+          "slots": []
+        }
+      ],
+      "invocationName": "code mash"
+    }
+  }
